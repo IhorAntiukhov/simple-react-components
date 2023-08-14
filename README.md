@@ -19,4 +19,4 @@ This application includes Single-Page Application **navigation, custom React hoo
 1. [Download the source code.](https://github.com/IhorAntiukhov/simple-react-components/archive/refs/heads/main.zip)
 2. Install Node.js and NPM.
 3. Open a terminal and navigate to the project's root directory.
-4. Execute **npm start** command.
+4. Execute **npm install** and **npm start** command.
